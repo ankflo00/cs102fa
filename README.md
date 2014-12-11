@@ -6,8 +6,8 @@ cs102fa
 ## Untertitel
 
 1. alpha
-  * a1  233
-  * a2     23334
+  * a1       233
+  * a234     23334
   * 
 2. beta
   1. b1
@@ -16,9 +16,10 @@ cs102fa
 
 Nummer 1 | Nummer 2 | Nummer 3
 --- |:---:| ---:
-Links | Zentriert | Rechts
+Links | Zentriert | Recht
 
-        *Kursiv*
+
+   *Kursiv*
 
 **Fett**
 
