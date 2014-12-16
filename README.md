@@ -44,3 +44,32 @@ auch kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes.
 http://de.wikipedia.org/wiki/Mozilla_Firefox
 
     http://www.mozilla.org
+
+
+
+<HTML>
+<BODY>
+<h1>Grafikkarten Testbericht</h1>
+<h2>Direktvergleich</h2>
+
+<table>
+<tr>
+<th> Name </th>
+<th> Preis </th>
+</tr>
+<tr>
+<td> Asus HD 7850 DirectCU II </td>
+<td> 185.- </td>
+</tr>
+<tr>
+<td> Sapphire R9 280X OC </td>
+<td> 319.- </td>
+
+<h2>Links</h2>
+
+<ol>
+<li> <a href="https://www.asus.com/">   ASUS </a>  </li> 
+<li> <a href="http://www.sapptech.com/">   Sapphire </a>  </li>
+</ol>
+</BODY>
+</HTML>
